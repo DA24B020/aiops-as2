@@ -1,0 +1,90 @@
+{
+  "0": {
+    "invalid_rows": 12,
+    "malformed_email": 11,
+    "missing_required_field": 1,
+    "node": "minikube-m02",
+    "passes": 6093,
+    "pod": "shard-validation-0-q6q8g",
+    "seconds": 30.18,
+    "shard": 0,
+    "total_rows": 400
+  },
+  "1": {
+    "invalid_rows": 16,
+    "malformed_email": 15,
+    "missing_required_field": 1,
+    "node": "minikube-m02",
+    "passes": 5649,
+    "pod": "shard-validation-1-qtxb4",
+    "seconds": 30.03,
+    "shard": 1,
+    "total_rows": 400
+  },
+  "2": {
+    "invalid_rows": 20,
+    "malformed_email": 18,
+    "missing_required_field": 2,
+    "node": "minikube",
+    "passes": 5901,
+    "pod": "shard-validation-2-ghl8x",
+    "seconds": 30.0,
+    "shard": 2,
+    "total_rows": 400
+  },
+  "3": {
+    "invalid_rows": 24,
+    "malformed_email": 19,
+    "missing_required_field": 5,
+    "node": "minikube-m02",
+    "passes": 5316,
+    "pod": "shard-validation-3-vtb5m",
+    "seconds": 30.46,
+    "shard": 3,
+    "total_rows": 400
+  },
+  "4": {
+    "invalid_rows": 28,
+    "malformed_email": 24,
+    "missing_required_field": 4,
+    "node": "minikube",
+    "passes": 5576,
+    "pod": "shard-validation-4-gs8s9",
+    "seconds": 30.3,
+    "shard": 4,
+    "total_rows": 400
+  },
+  "5": {
+    "invalid_rows": 32,
+    "malformed_email": 27,
+    "missing_required_field": 5,
+    "node": "minikube-m02",
+    "passes": 5379,
+    "pod": "shard-validation-5-cgb2p",
+    "seconds": 30.01,
+    "shard": 5,
+    "total_rows": 400
+  },
+  "6": {
+    "invalid_rows": 36,
+    "malformed_email": 27,
+    "missing_required_field": 9,
+    "node": "minikube-m02",
+    "passes": 5798,
+    "pod": "shard-validation-6-zt6qm",
+    "seconds": 30.0,
+    "shard": 6,
+    "total_rows": 400
+  },
+  "7": {
+    "invalid_rows": 40,
+    "malformed_email": 30,
+    "missing_required_field": 10,
+    "node": "minikube-m02",
+    "passes": 5135,
+    "pod": "shard-validation-7-7h9g2",
+    "seconds": 30.0,
+    "shard": 7,
+    "total_rows": 400
+  }
+}

@@ -1,0 +1,12 @@
+=== Q2 averaged cache benchmark  2026-09-17T19:15:08.004827+00:00 ===
+URL=http://localhost:8000/predict  N=50
+first call  : X-Cache=MISS e2e=11.938ms server=3.617ms body={'label': 'spam'}
+second call : X-Cache=HIT e2e=5.240ms server=1.153ms body={'label': 'spam'}
+
+end-to-end   MISS mean=  8.899 ms  median=  8.797 ms
+end-to-end   HIT  mean=  6.408 ms  median=  6.301 ms
+server-side  MISS mean=  3.098 ms   (tfidf.transform + nb.predict + SETEX)
+server-side  HIT  mean=  0.924 ms   (single redis GET)
+
+end-to-end speed-up : 1.39x  (28.0% faster)
+server-side speed-up: 3.35x  (70.2% faster)

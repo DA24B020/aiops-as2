@@ -1,0 +1,6 @@
+# BUILD-TIME (training) dependencies -- pandas is needed to generate/read the CSV
+# but is never imported by main.py, so it must not reach the runtime image.
+# scikit-learn/joblib pins MUST match requirements.txt or the .joblib will not load.
+pandas==2.2.3
+scikit-learn==1.5.2
+joblib==1.4.2

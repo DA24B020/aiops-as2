@@ -1,0 +1,125 @@
+===== 2026-09-19T14:37:58+05:30  Running=0  (max so far=0) =====
+===== 2026-09-19T14:38:02+05:30  Running=0  (max so far=0) =====
+shard-validation-0-q6q8g   0/1   ContainerCreating   0     2s    <none>   minikube-m02   <none>   <none>
+shard-validation-1-qtxb4   0/1   ContainerCreating   0     2s    <none>   minikube-m02   <none>   <none>
+shard-validation-2-ghl8x   0/1   ContainerCreating   0     2s    <none>   minikube       <none>   <none>
+shard-validation-3-vtb5m   0/1   ContainerCreating   0     2s    <none>   minikube-m02   <none>   <none>
+===== 2026-09-19T14:38:07+05:30  Running=3  (max so far=3) =====
+shard-validation-0-q6q8g   1/1   Running             0     7s    10.244.1.8   minikube-m02   <none>   <none>
+shard-validation-1-qtxb4   1/1   Running             0     7s    10.244.1.9   minikube-m02   <none>   <none>
+shard-validation-2-ghl8x   1/1   Running             0     7s    10.244.0.5   minikube       <none>   <none>
+shard-validation-3-vtb5m   0/1   ContainerCreating   0     7s    <none>       minikube-m02   <none>   <none>
+===== 2026-09-19T14:38:12+05:30  Running=4  (max so far=4) =====
+shard-validation-0-q6q8g   1/1   Running   0     12s   10.244.1.8    minikube-m02   <none>   <none>
+shard-validation-1-qtxb4   1/1   Running   0     12s   10.244.1.9    minikube-m02   <none>   <none>
+shard-validation-2-ghl8x   1/1   Running   0     12s   10.244.0.5    minikube       <none>   <none>
+shard-validation-3-vtb5m   1/1   Running   0     12s   10.244.1.10   minikube-m02   <none>   <none>
+===== 2026-09-19T14:38:18+05:30  Running=4  (max so far=4) =====
+shard-validation-0-q6q8g   1/1   Running   0     18s   10.244.1.8    minikube-m02   <none>   <none>
+shard-validation-1-qtxb4   1/1   Running   0     18s   10.244.1.9    minikube-m02   <none>   <none>
+shard-validation-2-ghl8x   1/1   Running   0     18s   10.244.0.5    minikube       <none>   <none>
+shard-validation-3-vtb5m   1/1   Running   0     18s   10.244.1.10   minikube-m02   <none>   <none>
+===== 2026-09-19T14:38:24+05:30  Running=4  (max so far=4) =====
+shard-validation-0-q6q8g   1/1   Running   0     24s   10.244.1.8    minikube-m02   <none>   <none>
+shard-validation-1-qtxb4   1/1   Running   0     24s   10.244.1.9    minikube-m02   <none>   <none>
+shard-validation-2-ghl8x   1/1   Running   0     24s   10.244.0.5    minikube       <none>   <none>
+shard-validation-3-vtb5m   1/1   Running   0     24s   10.244.1.10   minikube-m02   <none>   <none>
+===== 2026-09-19T14:38:28+05:30  Running=4  (max so far=4) =====
+shard-validation-0-q6q8g   1/1   Running   0     28s   10.244.1.8    minikube-m02   <none>   <none>
+shard-validation-1-qtxb4   1/1   Running   0     28s   10.244.1.9    minikube-m02   <none>   <none>
+shard-validation-2-ghl8x   1/1   Running   0     28s   10.244.0.5    minikube       <none>   <none>
+shard-validation-3-vtb5m   1/1   Running   0     28s   10.244.1.10   minikube-m02   <none>   <none>
+===== 2026-09-19T14:38:33+05:30  Running=4  (max so far=4) =====
+shard-validation-0-q6q8g   1/1   Running   0     32s   10.244.1.8    minikube-m02   <none>   <none>
+shard-validation-1-qtxb4   1/1   Running   0     32s   10.244.1.9    minikube-m02   <none>   <none>
+shard-validation-2-ghl8x   1/1   Running   0     32s   10.244.0.5    minikube       <none>   <none>
+shard-validation-3-vtb5m   1/1   Running   0     32s   10.244.1.10   minikube-m02   <none>   <none>
+===== 2026-09-19T14:38:38+05:30  Running=2  (max so far=4) =====
+shard-validation-0-q6q8g   0/1   Completed   0     37s   10.244.1.8    minikube-m02   <none>   <none>
+shard-validation-1-qtxb4   0/1   Completed   0     37s   10.244.1.9    minikube-m02   <none>   <none>
+shard-validation-2-ghl8x   0/1   Completed   0     37s   10.244.0.5    minikube       <none>   <none>
+shard-validation-3-vtb5m   0/1   Completed   0     37s   10.244.1.10   minikube-m02   <none>   <none>
+===== 2026-09-19T14:38:42+05:30  Running=0  (max so far=4) =====
+shard-validation-0-q6q8g   0/1   Completed           0     41s   10.244.1.8    minikube-m02   <none>   <none>
+shard-validation-1-qtxb4   0/1   Completed           0     41s   10.244.1.9    minikube-m02   <none>   <none>
+shard-validation-2-ghl8x   0/1   Completed           0     41s   10.244.0.5    minikube       <none>   <none>
+shard-validation-3-vtb5m   0/1   Completed           0     41s   10.244.1.10   minikube-m02   <none>   <none>
+shard-validation-4-gs8s9   0/1   ContainerCreating   0     2s    <none>        minikube       <none>   <none>
+shard-validation-5-cgb2p   0/1   ContainerCreating   0     1s    <none>        minikube-m02   <none>   <none>
+shard-validation-6-zt6qm   0/1   ContainerCreating   0     1s    <none>        minikube-m02   <none>   <none>
+shard-validation-7-7h9g2   0/1   ContainerCreating   0     1s    <none>        minikube-m02   <none>   <none>
+===== 2026-09-19T14:38:47+05:30  Running=4  (max so far=4) =====
+shard-validation-0-q6q8g   0/1   Completed   0     47s   10.244.1.8    minikube-m02   <none>   <none>
+shard-validation-1-qtxb4   0/1   Completed   0     47s   10.244.1.9    minikube-m02   <none>   <none>
+shard-validation-2-ghl8x   0/1   Completed   0     47s   10.244.0.5    minikube       <none>   <none>
+shard-validation-3-vtb5m   0/1   Completed   0     47s   10.244.1.10   minikube-m02   <none>   <none>
+shard-validation-4-gs8s9   1/1   Running     0     8s    10.244.0.6    minikube       <none>   <none>
+shard-validation-5-cgb2p   1/1   Running     0     7s    10.244.1.11   minikube-m02   <none>   <none>
+shard-validation-6-zt6qm   1/1   Running     0     7s    10.244.1.12   minikube-m02   <none>   <none>
+shard-validation-7-7h9g2   1/1   Running     0     7s    10.244.1.13   minikube-m02   <none>   <none>
+===== 2026-09-19T14:38:52+05:30  Running=4  (max so far=4) =====
+shard-validation-0-q6q8g   0/1   Completed   0     51s   10.244.1.8    minikube-m02   <none>   <none>
+shard-validation-1-qtxb4   0/1   Completed   0     51s   10.244.1.9    minikube-m02   <none>   <none>
+shard-validation-2-ghl8x   0/1   Completed   0     51s   10.244.0.5    minikube       <none>   <none>
+shard-validation-3-vtb5m   0/1   Completed   0     51s   10.244.1.10   minikube-m02   <none>   <none>
+shard-validation-4-gs8s9   1/1   Running     0     12s   10.244.0.6    minikube       <none>   <none>
+shard-validation-5-cgb2p   1/1   Running     0     11s   10.244.1.11   minikube-m02   <none>   <none>
+shard-validation-6-zt6qm   1/1   Running     0     11s   10.244.1.12   minikube-m02   <none>   <none>
+shard-validation-7-7h9g2   1/1   Running     0     11s   10.244.1.13   minikube-m02   <none>   <none>
+===== 2026-09-19T14:38:56+05:30  Running=4  (max so far=4) =====
+shard-validation-0-q6q8g   0/1   Completed   0     55s   10.244.1.8    minikube-m02   <none>   <none>
+shard-validation-1-qtxb4   0/1   Completed   0     55s   10.244.1.9    minikube-m02   <none>   <none>
+shard-validation-2-ghl8x   0/1   Completed   0     55s   10.244.0.5    minikube       <none>   <none>
+shard-validation-3-vtb5m   0/1   Completed   0     55s   10.244.1.10   minikube-m02   <none>   <none>
+shard-validation-4-gs8s9   1/1   Running     0     16s   10.244.0.6    minikube       <none>   <none>
+shard-validation-5-cgb2p   1/1   Running     0     15s   10.244.1.11   minikube-m02   <none>   <none>
+shard-validation-6-zt6qm   1/1   Running     0     15s   10.244.1.12   minikube-m02   <none>   <none>
+shard-validation-7-7h9g2   1/1   Running     0     15s   10.244.1.13   minikube-m02   <none>   <none>
+===== 2026-09-19T14:39:01+05:30  Running=4  (max so far=4) =====
+shard-validation-0-q6q8g   0/1   Completed   0     62s   10.244.1.8    minikube-m02   <none>   <none>
+shard-validation-1-qtxb4   0/1   Completed   0     62s   10.244.1.9    minikube-m02   <none>   <none>
+shard-validation-2-ghl8x   0/1   Completed   0     62s   10.244.0.5    minikube       <none>   <none>
+shard-validation-3-vtb5m   0/1   Completed   0     62s   10.244.1.10   minikube-m02   <none>   <none>
+shard-validation-4-gs8s9   1/1   Running     0     23s   10.244.0.6    minikube       <none>   <none>
+shard-validation-5-cgb2p   1/1   Running     0     22s   10.244.1.11   minikube-m02   <none>   <none>
+shard-validation-6-zt6qm   1/1   Running     0     22s   10.244.1.12   minikube-m02   <none>   <none>
+shard-validation-7-7h9g2   1/1   Running     0     22s   10.244.1.13   minikube-m02   <none>   <none>
+===== 2026-09-19T14:39:07+05:30  Running=4  (max so far=4) =====
+shard-validation-0-q6q8g   0/1   Completed   0     67s   10.244.1.8    minikube-m02   <none>   <none>
+shard-validation-1-qtxb4   0/1   Completed   0     67s   10.244.1.9    minikube-m02   <none>   <none>
+shard-validation-2-ghl8x   0/1   Completed   0     67s   10.244.0.5    minikube       <none>   <none>
+shard-validation-3-vtb5m   0/1   Completed   0     67s   10.244.1.10   minikube-m02   <none>   <none>
+shard-validation-4-gs8s9   1/1   Running     0     28s   10.244.0.6    minikube       <none>   <none>
+shard-validation-5-cgb2p   1/1   Running     0     27s   10.244.1.11   minikube-m02   <none>   <none>
+shard-validation-6-zt6qm   1/1   Running     0     27s   10.244.1.12   minikube-m02   <none>   <none>
+shard-validation-7-7h9g2   1/1   Running     0     27s   10.244.1.13   minikube-m02   <none>   <none>
+===== 2026-09-19T14:39:11+05:30  Running=4  (max so far=4) =====
+shard-validation-0-q6q8g   0/1   Completed   0     71s   10.244.1.8    minikube-m02   <none>   <none>
+shard-validation-1-qtxb4   0/1   Completed   0     71s   10.244.1.9    minikube-m02   <none>   <none>
+shard-validation-2-ghl8x   0/1   Completed   0     71s   10.244.0.5    minikube       <none>   <none>
+shard-validation-3-vtb5m   0/1   Completed   0     71s   10.244.1.10   minikube-m02   <none>   <none>
+shard-validation-4-gs8s9   1/1   Running     0     32s   10.244.0.6    minikube       <none>   <none>
+shard-validation-5-cgb2p   1/1   Running     0     31s   10.244.1.11   minikube-m02   <none>   <none>
+shard-validation-6-zt6qm   1/1   Running     0     31s   10.244.1.12   minikube-m02   <none>   <none>
+shard-validation-7-7h9g2   1/1   Running     0     31s   10.244.1.13   minikube-m02   <none>   <none>
+===== 2026-09-19T14:39:15+05:30  Running=4  (max so far=4) =====
+shard-validation-0-q6q8g   0/1   Completed   0     75s   10.244.1.8    minikube-m02   <none>   <none>
+shard-validation-1-qtxb4   0/1   Completed   0     75s   10.244.1.9    minikube-m02   <none>   <none>
+shard-validation-2-ghl8x   0/1   Completed   0     75s   10.244.0.5    minikube       <none>   <none>
+shard-validation-3-vtb5m   0/1   Completed   0     75s   10.244.1.10   minikube-m02   <none>   <none>
+shard-validation-4-gs8s9   1/1   Running     0     36s   10.244.0.6    minikube       <none>   <none>
+shard-validation-5-cgb2p   1/1   Running     0     35s   10.244.1.11   minikube-m02   <none>   <none>
+shard-validation-6-zt6qm   1/1   Running     0     35s   10.244.1.12   minikube-m02   <none>   <none>
+shard-validation-7-7h9g2   1/1   Running     0     35s   10.244.1.13   minikube-m02   <none>   <none>
+===== 2026-09-19T14:39:19+05:30  Running=0  (max so far=4) =====
+shard-validation-0-q6q8g   0/1   Completed   0     79s   10.244.1.8    minikube-m02   <none>   <none>
+shard-validation-1-qtxb4   0/1   Completed   0     79s   10.244.1.9    minikube-m02   <none>   <none>
+shard-validation-2-ghl8x   0/1   Completed   0     79s   10.244.0.5    minikube       <none>   <none>
+shard-validation-3-vtb5m   0/1   Completed   0     79s   10.244.1.10   minikube-m02   <none>   <none>
+shard-validation-4-gs8s9   0/1   Completed   0     40s   10.244.0.6    minikube       <none>   <none>
+shard-validation-5-cgb2p   0/1   Completed   0     39s   10.244.1.11   minikube-m02   <none>   <none>
+shard-validation-6-zt6qm   0/1   Completed   0     39s   10.244.1.12   minikube-m02   <none>   <none>
+shard-validation-7-7h9g2   0/1   Completed   0     39s   10.244.1.13   minikube-m02   <none>   <none>
+=====================================================
+MAX CONCURRENTLY RUNNING PODS OBSERVED = 4
+(manifest declares parallelism: 4)

@@ -1,0 +1,26 @@
+services:
+  api:
+    build:
+      context: ..
+      dockerfile: q1/Dockerfile
+    image: spam-api:v1
+    ports:
+      - "8000:8000"
+    environment:
+      REDIS_HOST: cache
+      REDIS_PORT: "6379"
+      CACHE_TTL: "300"
+    depends_on:
+      cache:
+        condition: service_healthy
+
+  cache:
+    image: redis:7-alpine
+    command: ["redis-server", "--save", "", "--appendonly", "no"]
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
