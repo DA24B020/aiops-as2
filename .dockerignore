@@ -1,11 +1,11 @@
 .git
-.gitignore
+.venv
 __pycache__/
 *.pyc
 evidence/
-k8s/
+q2/
+q3/
+q4/
 scripts/
-validator/
 *.md
-*.csv
-*.joblib
+*.pdf
